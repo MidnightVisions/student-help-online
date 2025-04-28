@@ -2,7 +2,7 @@
 
 <h1 align="center">Ultraviolet-App</h1>
 
-The deployable all-in-one bundle for [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet), a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
+The deployable all-in-one bundle for [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet), a highly sophisticated   used for   ing internet   rship or accessing websites in a controlled sandbox using the power of service-workers and more!
 
 ## Deployment
 
@@ -15,7 +15,7 @@ If you are deploying to an alternative service or to a server, refer to [Deploy 
 
 Additional information such as [customizing your frontend](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Customizing-your-frontend) can be found on the [wiki](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki).
 
-Support and updates can be found in our [Discord Server](discord.gg/unblock).
+Support and updates can be found in our [Discord Server](discord.gg/  ).
 
 > [!IMPORTANT]  
 > Until deployed on a domain with a valid SSL certificate, Firefox will not be able to load the site. Use chromium for testing on localhost
